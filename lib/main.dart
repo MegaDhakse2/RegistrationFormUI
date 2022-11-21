@@ -333,7 +333,7 @@ class _FrgtPageState extends State<FrgtPage> {
                     suffixIcon: Icon(
                       Icons.mail_lock_sharp,
                     ),
-                    labelText: 'Enter OTP sent to your Gmail',
+                    labelText: '*************Enter OTP sent to your Gmail',
                   )),
               const SizedBox(height: 50,),
 
